@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcularApp</string>
+    <string name="TXTsuma">suma</string>
+    <string name="TXTresta">resta</string>
+    <string name="TXTdivision">division</string>
+    <string name="TXTmultipliacion">multiplicacion</string>
+</resources>
